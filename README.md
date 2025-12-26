@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joshua Sunarho
 
-# Studying a B Politics, Philosophy, and Economics @ University of Sydney
+### Studying a B Politics, Philosophy, and Economics @ University of Sydney
 
 Currently working on expanding my skillset!
 
