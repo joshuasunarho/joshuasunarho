@@ -7,6 +7,3 @@ Currently working on expanding my skillset!
 Currently learning *R/RStudio*
 
 Ask me about economics!
-
-
-You can reach me @ joshualiesunarho@gmail.com
