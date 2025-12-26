@@ -1,21 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Joshua Sunarho
 
-<!--
-**joshuasunarho/joshuasunarho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Studying a B Politics, Philosophy, and Economics @ University of Sydney
 
-Here are some ideas to get you started:
+Currently working on expanding my skillset!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning *R/RStudio*
 
-I'm currently working on expanding my skillset!
-I'm currently learning R/RStudio
 Ask me about economics!
-Reach me @: joshualiesunarho@gmail.com
+
+
+You can reach me @ joshualiesunarho@gmail.com
