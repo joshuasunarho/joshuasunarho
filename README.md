@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on expanding my skillset!
+I'm currently learning R/RStudio
+Ask me about economics!
+Reach me @: joshualiesunarho@gmail.com
